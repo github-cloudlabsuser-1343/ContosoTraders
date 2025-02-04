@@ -34,6 +34,8 @@ If you are reporting for a bug bounty, more complete reports can contribute to a
 
 We prefer all communications to be in English.
 
+0e623102-8477-44f3-aba6-e0b17da3027d
+
 ## Policy
 
 Microsoft follows the principle of [Coordinated Vulnerability Disclosure](https://aka.ms/opensource/security/cvd).
