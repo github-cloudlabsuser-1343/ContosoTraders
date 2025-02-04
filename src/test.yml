@@ -2,6 +2,6 @@ version: "3.4"
 services:
 api:
    build: ./ContosoTraders.Ui.Website/
-   app password: "haJ8Q~m5qhDwBtJftH1cwSePit1oZVKDA~A.AbkY"
+   secret key: "haJ8Q~m5qhDwBtJftH1cwSePit1oZVKDA~A.AbkY"
 web:
    build: ./ContosoTraders.Api.Products
